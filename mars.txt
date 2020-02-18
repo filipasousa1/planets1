@@ -1,2 +1,3 @@
 #Hello 18/02/20
 Mars is red and large 
+making changes to the original doc and git will track modifications 
